@@ -1,8 +1,8 @@
 {
     "status": [
         {
-            "IsUp": true,
-            "DownMsg": "Pro Swapper is currently not working. Take a look at our Discord for any announcments"
+            "IsUp": false,
+            "DownMsg": "Pro Swapper is currently under maintenance due to Fortnite Chapter 3. Check our Discord server for any announcements. https://discord.com/invite/QSnufXDn8m"
         }
     ],
     "version": "0.9.6",
