@@ -1,10 +1,10 @@
 {
     "status": [
         {
-            "IsUp": false,
+            "IsUp": true,
             "DownMsg": "Pro Swapper INGAME is currently down due to Fortnite's update with their new anti-cheat. Check our Discord server for any announcements. discord.gg/proswapper"
         }
     ],
-    "version": "0.9.6",
+    "version": "0.9.7",
     "discordurl": "https://discord.gg/proswapper"
 }
