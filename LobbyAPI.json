@@ -2,5 +2,6 @@
   "Disable": false,
   "DisableMessage": "Hello World",
   "DiscordID": 703033424541384784,
-  "KeyLifetime": 172800
+  "KeyLifetime": 172800,
+  "Invite":"https://discord.gg/proswapper"
 }
